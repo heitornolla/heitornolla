@@ -1,7 +1,7 @@
 ### Oi! Sou o Heitor :)
 
 - 🔭 Bacharel em Sistemas de Informação pela UNICAMP.
-- 🌱 Estou aprendendo mais sobre desenvolvimento full-stack! Agora focado em saber mais sobre o front-end.
+- 🌱 Aprendendo mais sobre desenvolvimento full-stack! Agora focado em saber mais sobre o front-end.
 - 😄 Pronomes: ele/dele
 
 ![Heitor Nolla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&theme=radical)
