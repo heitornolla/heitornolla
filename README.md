@@ -1,6 +1,7 @@
 ### Oi! Sou o Heitor :)
 
 - 🔭 Bacharel em Sistemas de Informação pela UNICAMP.
+- 🌐 Aluno de Intercâmbio - Coahuila, Mexico 2019/2020
 - 🌱 Aprendendo mais sobre desenvolvimento full-stack! Agora focado em saber mais sobre o front-end.
 - 😄 Pronomes: ele/dele
 
