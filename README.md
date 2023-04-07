@@ -1,9 +1,9 @@
 ### Oi! Sou o Heitor :)
 
 - 🔭 Bacharel em Sistemas de Informação pela UNICAMP.
-- 🌐 Aluno de Intercâmbio - Coahuila, Mexico 2019/2020
+- 🌐 Aluno de Intercâmbio - Coahuila, Mexico 2019/2020.
 - 🌱 Aprendendo mais sobre desenvolvimento full-stack! Agora focado em saber mais sobre o front-end.
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele/dele.
 
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
 <div style="display: inline_block"><br>
