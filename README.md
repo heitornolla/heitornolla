@@ -2,7 +2,8 @@
 
 - 🔭 Bacharel em Sistemas de Informação pela UNICAMP.
 - 🌐 Aluno de Intercâmbio - Coahuila, Mexico 2019/2020.
-- 🌱 Aprendendo mais sobre Estatística e Ciência de Dados em Python e R.
+- 🌱 Interessado e capacitado em IA, ML e Visão Computacional.
+- 🤖 Casualmente estudando conceitos de segurança ofensiva: segurança de redes, pentest e malware exploitation.
 - 😄 Pronomes: ele/dele.
 
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
