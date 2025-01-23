@@ -1,10 +1,15 @@
-### Oi! Sou o Heitor :)
+### Hey there! I'm Heitor :)
 
-- 🔭 Bacharel em Sistemas de Informação pela UNICAMP.
-- 🌐 Aluno de Intercâmbio - Coahuila, Mexico 2019/2020.
-- 🌱 Interessado e capacitado em IA, ML e Visão Computacional.
-- 🤖 Casualmente estudando conceitos de segurança ofensiva: segurança de redes, pentest e malware exploitation.
-- 😄 Pronomes: ele/dele.
+- 🔭 Information Systems bachelor at UNICAMP.
+- 🌐 RYEP Exchange Student to Coahuila, Mexico 2019/2020.
+- 🌱 Interested in AI, ML and Computer Vision Research.
+- 🤖 Studying offensive security (for fun).
+- 😄 Pronouns: he/him.
+
+## About Myself:
+I am an R&D Intern at Samsung Research Brazil's (SRBR) Advanced Security Lab., where work with AI and Computer Vision techniques applied to the field of Biometrics. My interests include Cybersecurity, Post-Quantum Cryptography, Machine Learning and Deep Learning, Computer Vision and Data Science and Engineering.
+
+I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
 <div style="display: inline_block"><br>
