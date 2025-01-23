@@ -11,6 +11,14 @@ I am an R&D Intern at Samsung Research Brazil's (SRBR) Advanced Security Lab., w
 
 I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
+## Professional Experiences
+<ul>
+  <li>Computer Vision (OpenCV-Python)</li>
+  <li>Convolutional Neural Networks</li>
+  <li>Generative AI - mainly GANs and DDPMs</li>
+  <li>Java, Python, C and C++</li>
+</ul>
+
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
 <div style="display: inline_block"><br>
 <div>
