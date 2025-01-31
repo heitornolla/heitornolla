@@ -22,6 +22,14 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
   <li>LaTeX for technical writing (Papers, DOIs and Patents)</li>
 </ul>
 
+## Currently Studying
+<ul>
+  <li>Model Deployment with Docker and Flask/FastAPI</li>
+  <li>Object Segmentation and Detection with OpenCV</li>
+  <li>Deep Learning for Computer Vision</li>
+  <li>Rust Programming for Data Engineering</li>
+</ul>
+
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
 <div style="display: inline_block"><br>
 <div>
