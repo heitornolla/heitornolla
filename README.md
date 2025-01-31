@@ -15,8 +15,10 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
 <ul>
   <li>Computer Vision (OpenCV-Python)</li>
   <li>Convolutional Neural Networks</li>
+  <li>Deep Learning with PyTorch and TensorFlow</li>
   <li>Generative AI - mainly GANs and DDPMs</li>
-  <li>Java, Python, C and C++</li>
+  <li>Python, C and C++</li>
+  <li>Java and Spring Framework - mostly: Spring Security, Thymeleaf, Spring Data and RabbitMQ/Apache Kafka</li> 
   <li>LaTeX for technical writing (Papers, DOIs and Patents)</li>
 </ul>
 
