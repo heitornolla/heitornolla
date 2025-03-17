@@ -7,8 +7,7 @@
 - 😄 Pronouns: he/him.
 
 ## About Myself:
-I am an R&D Intern at Samsung Research Brazil's (SRBR) Advanced Security Lab., where I work with AI and Computer Vision techniques applied to the field of Biometrics. My interests include Cybersecurity, Post-Quantum Cryptography, Machine Learning, Deep Learning, Computer Vision and Data Science and Engineering.
-
+I'm a Sofware Development intern INPO, where I work with solutions tailored to Operations Research and Logistics. 
 I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
 ## Professional Experiences
@@ -24,10 +23,8 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
 ## Currently Studying
 <ul>
-  <li>Model Deployment with Docker and Flask/FastAPI</li>
   <li>Object Segmentation and Detection with OpenCV</li>
   <li>Deep Learning for Computer Vision</li>
-  <li>Rust Programming for Data Engineering</li>
 </ul>
 
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
