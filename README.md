@@ -2,8 +2,7 @@
 
 - 🔭 Information Systems bachelor at UNICAMP.
 - 🌐 RYEP Exchange Student to Coahuila, Mexico 2019/2020.
-- 🌱 Interested in AI, ML and Computer Vision Research.
-- 🤖 Studying offensive security (for fun).
+- 🌱 Interested in Data Engineering, AI, ML and Computer Vision Research.
 - 😄 Pronouns: he/him.
 
 ## About Myself:
@@ -12,6 +11,8 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
 ## Professional Experiences
 <ul>
+  <li>C# .NET framework</li>
+  <li>Microsoft Azure</li>
   <li>Computer Vision (OpenCV-Python)</li>
   <li>Convolutional Neural Networks</li>
   <li>Deep Learning with PyTorch and TensorFlow</li>
@@ -22,10 +23,7 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
 </ul>
 
 ## Currently Studying
-<ul>
-  <li>Object Segmentation and Detection with OpenCV</li>
-  <li>Deep Learning for Computer Vision</li>
-</ul>
+I'm currently looking to expand my Data Engineering skills. As such, I'm developing personal projects to learn about topics related to model deployment, cloud platforms and ETL processes.
 
 [![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
 <div style="display: inline_block"><br>
