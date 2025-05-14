@@ -31,7 +31,7 @@ I'm currently studying Data Engineering, looking to familiarize myself with Clou
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain.svg">
 </div>
   
   ##
