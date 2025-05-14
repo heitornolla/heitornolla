@@ -6,7 +6,8 @@
 - 😄 Pronouns: he/him.
 
 ## About Myself:
-I'm a Sofware Development intern at INPO, where I work with solutions tailored to Operations Research and Logistics. 
+I'm an AI & Biometrics researcher, familiar with Convolutional Neural Networks, Computer Vision and Generative AI. My focus is currently on the research of Synthetic Latent Fingerprint Generation, being conducted through Unicamp's Laboratory of Image Data Science (LIDS) along with Griaule.
+
 I am pursuing a bachelor's degree in Information Systems from Unicamp.
 
 ## Professional Experiences
