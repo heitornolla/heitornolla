@@ -29,7 +29,8 @@ I'm currently studying Data Engineering, looking to familiarize myself with Clou
 
 On my personal projects, I have already worked with DBT, Airflow, Web Scraping with Scrapy and Beautiful Soup, AWS and N8N.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=heitornolla)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
