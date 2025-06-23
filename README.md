@@ -29,7 +29,7 @@ I'm currently studying Data Engineering, looking to familiarize myself with Clou
 
 On my personal projects, I have already worked with DBT, Airflow, Web Scraping with Scrapy and Beautiful Soup, AWS and N8N.
 
-[![Linguagens Usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/heitornolla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <div>
