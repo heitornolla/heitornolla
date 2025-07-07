@@ -27,7 +27,9 @@ I am pursuing a bachelor's degree in Information Systems from Unicamp.
 ## Currently Studying
 I'm currently studying Data Engineering, looking to familiarize myself with Cloud platforms, CI/CD and ETL/ELT processes, DevOps/DevSecOps and data lakes/warehouses.
 
-On my personal projects, I have already worked with DBT, Airflow, Web Scraping with Scrapy and Beautiful Soup, AWS and N8N.
+On my personal projects, I have already worked with DBT, Airflow, Web Scraping with Scrapy and Beautiful Soup and AWS.
+
+I'm also very familiar with AgenticAI, having explored libraries such as smolagents, CrewAI, LangChain, LangGraph and N8N.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
