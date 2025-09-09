@@ -1,4 +1,4 @@
-### Hey there! I'm Heitor :)
+# Hey there! I'm Heitor :)
 
 - 🔭 Information Systems bachelor at UNICAMP.
 - 🌐 RYEP Exchange Student to Coahuila, Mexico 2019/2020.
@@ -6,9 +6,9 @@
 - 😄 Pronouns: he/him.
 
 ## About Myself:
-I'm an AI & Biometrics researcher, familiar with Machine Learning, Convolutional Neural Networks, Computer Vision and Generative AI. My focus is currently on the research of Synthetic Latent Fingerprint Generation, being conducted through Unicamp's Laboratory of Image Data Science (LIDS) along with Griaule.
+I'm a Biometrics researcher, with a background in software development and AI research. My work is mainly focused on applications of deep learning and computer vision in biometric security.
 
-I am pursuing a bachelor's degree in Information Systems from Unicamp.
+Currently, I'm working as a Student Researcher at Unicamp's Laboratory of Image Data Science (LIDS), on an Undergraduate Research project funded by Griaule.
 
 ## Professional Experiences
 <ul>
