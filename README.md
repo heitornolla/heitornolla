@@ -19,10 +19,9 @@ Currently, my work is mainly focused on applications of deep learning and comput
 - Cloud: AWS, Azure
 
 ## Currently Learning
-- Data Engineering: ETL/ELT, data lakes, and warehouse design.
-- AgenticAI: reasoning patterns, orchestration, and benchmarking.
+- AgenticAI: reasoning patterns, tool calling frameworks and orchestration
 - Security: Web and Application Security
-- Cryptography: FHE & Privacy-preserving AI for biometric systems.
+- Cryptography: FHE & Privacy-preserving AI for biometric systems
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
