@@ -13,8 +13,8 @@ My journey has taken me from backend development in industry to R&D in Large Lan
 Currently, my work is mainly focused on applications of deep learning and computer vision in biometric security, as I'm working as a Student Researcher at Unicamp's Laboratory of Image Data Science (LIDS), on an Undergraduate Research project funded by Griaule.
 
 ## Professional Experiences
-- Languages & Frameworks: Python, C#, C++, Java, JavaScript/TypeScript, FastAPI, Spring
-- AI/ML: PyTorch, TensorFlow, Scikit-Learn, OpenCV, LangChain, LangGraph
+- Languages & Frameworks: Python, C++, FastAPI, n8n
+- AI/ML: PyTorch, Scikit-Learn, OpenCV, LangGraph
 - Data & DevOps: Pandas, Airflow, dbt, Docker, GitHub Actions, SQL, Pydantic, Poetry
 - Cloud: AWS, Azure
 
