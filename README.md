@@ -8,9 +8,7 @@
 ## About Myself:
 I'm a researcher and developer working at the intersection of AI, biometrics, and data engineering.
 
-My journey has taken me from backend development in industry to R&D in Large Language Models, Time Series, and Biometric Security.
-
-Currently, my work is mainly focused on applications of deep learning and computer vision in biometric security, as I'm working as a Student Researcher at Unicamp's Laboratory of Image Data Science (LIDS), on an Undergraduate Research project funded by Griaule.
+Currently, my work is mainly focused on applications of deep learning in biometric security and HAR data.
 
 ## Professional Experiences
 - Languages & Frameworks: Python, C++, FastAPI, n8n
