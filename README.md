@@ -25,7 +25,7 @@ In my profile, you'll find a few of my personal projects, research and some stud
 - Security: Web and Application Security
 - Cryptography: FHE & Privacy-preserving AI for biometric systems
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitornolla&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <div>
