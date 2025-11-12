@@ -8,16 +8,16 @@
 ## About Myself:
 I'm a researcher and developer working at the intersection of AI, biometrics, and data engineering.
 
-Currently, my work is mainly focused on applications of deep learning in biometric security and HAR data. 
+Currently, I'm part of LinkedIn's Central Operations team, where I focus on data engineering and analysis. I'm also a researcher at Unicamp, working with deep learning applied to biometric security and human activity recognition data.
 
 Aside from that, I'm always learning and exploring new research areas. I'm interested in topics such as green software, remote sensing, cloud computing, application and web security, cryptography and AI fairness and explainability.
 
 In my profile, you'll find a few of my personal projects, research and some study material which I found helpful. If you think I can help you in any way or are interested in learning more about my experiences, feel free to reach out via LinkedIn.
 
 ## Professional Experiences
-- Languages & Frameworks: Python, C++, FastAPI, n8n
+- Languages: Python, C++
 - AI/ML: PyTorch, Scikit-Learn, OpenCV, LangGraph
-- Data & DevOps: Pandas, Airflow, dbt, Docker, GitHub Actions, SQL, Pydantic, Poetry
+- Data & DevOps: Airflow, dbt, Docker, GitHub Actions, SQL, Pydantic, Poetry
 - Cloud: AWS, Azure
 
 ## Currently Learning
