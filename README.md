@@ -8,7 +8,7 @@
 ## About Myself:
 I'm a researcher and developer working at the intersection of AI, biometrics, and data engineering.
 
-Currently, I'm part of LinkedIn's Central Operations team, where I focus on data engineering and analysis. I'm also a researcher at Unicamp, working with deep learning applied to biometric security and human activity recognition data.
+Currently, I'm part of LinkedIn's Central Operations team, where I work with data engineering and analysis. I'm also a researcher at Unicamp, working with deep learning applied to biometric security and human activity recognition data.
 
 Aside from that, I'm always learning and exploring new research areas. I'm interested in topics such as green software, remote sensing, cloud computing, application and web security, cryptography and AI fairness and explainability.
 
