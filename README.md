@@ -30,27 +30,11 @@ In this profile you'll find research projects, experiments, publications, study 
   <a href="https://www.linkedin.com/in/heitor-nolla/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
 
-<div>
   <a href="https://www.researchgate.net/profile/Heitor-Nolla" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
   </a>
-</div>
 
-<div>
-  <a href="https://www.researchgate.net/profile/Heitor-Nolla" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
-  </a>
-</div>
-
-<div>
-  <a href="https://scholar.google.com/citations?hl=pt-BR&view_op=list_works&authuser=1&gmla=AIqSsVsHaux0JXCmQF3HiE08dqOwDeXMei4c7YxAqR1EtfaaKRQXK67KQrLgWlujpXsbMuZhjmfMg_xT8NAyUEojrExTR7fJ&user=kzHSN-8AAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
-  </a>
-</div>
-
-<div>
   <a href="https://scholar.google.com/citations?hl=pt-BR&view_op=list_works&authuser=1&gmla=AIqSsVsHaux0JXCmQF3HiE08dqOwDeXMei4c7YxAqR1EtfaaKRQXK67KQrLgWlujpXsbMuZhjmfMg_xT8NAyUEojrExTR7fJ&user=kzHSN-8AAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   </a>
