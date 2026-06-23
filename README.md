@@ -24,6 +24,8 @@ I'm particularly interested in:
 
 In this profile you'll find research projects, experiments, publications, study material and open-source contributions related to these areas. Feel free to connect if you'd like to discuss research, collaborate on projects or simply exchange ideas.
 
+Everything I build and study is possible because of those who came before me. Standing on the shoulders of giants, I hope to contribute back to the scientific community.
+
 ##
 <div>
   <a href="https://www.linkedin.com/in/heitor-nolla/" target="_blank">
