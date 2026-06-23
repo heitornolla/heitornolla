@@ -10,7 +10,7 @@
 
 I'm a researcher and developer working at the intersection of Artificial Intelligence, Biometrics, Privacy and Data Engineering.
 
-Currently, I work as a Data Analyst at LinkedIn, where I build data solutions, automate workflows and support business operations through analytics and engineering. Alongside industry work, I'm an undergraduate researcher at UNICAMP's Laboratory of Image Data Science, developing generative models for latent fingerprint synthesis.
+Currently, I work as a Data Analyst at LinkedIn and I'm an undergraduate researcher at UNICAMP's Laboratory of Image Data Science.
 
 My research experience spans computer vision, biometric recognition, privacy-preserving AI, large language models and environmental monitoring. I've worked on projects involving fingerprint enhancement, synthetic biometric data generation, fully homomorphic encryption for face verification, agentic AI systems and deep learning for satellite imagery analysis.
 
@@ -23,7 +23,6 @@ I'm particularly interested in:
 - Data Engineering & Analytics
 
 In this profile you'll find research projects, experiments, publications, study material and open-source contributions related to these areas. Feel free to connect if you'd like to discuss research, collaborate on projects or simply exchange ideas.
-
 
 ##
 <div>
