@@ -1,18 +1,13 @@
 # Hey there! I'm Heitor 👋
 
 - 🎓 Information Systems B.Sc. at UNICAMP.
-- 📊 Data Analyst at LinkedIn's Central Operations team.
 - 🔬 AI Researcher working on Biometrics, Computer Vision and Privacy-Preserving Machine Learning.
 - 🌎 RYEP Exchange Student to Coahuila, Mexico (2019/2020).
 - 😄 Pronouns: he/him.
 
 ## About Myself
 
-I'm a researcher and developer working at the intersection of Artificial Intelligence, Image Processing, Privacy and Data Engineering.
-
-Currently, I'm an undergraduate researcher at UFMG's Remote Sensing laboratory.
-
-My research experience spans computer vision, biometric recognition, privacy-preserving AI, large language models and environmental monitoring. I've worked on projects involving fingerprint enhancement, synthetic biometric data generation, fully homomorphic encryption for face verification, agentic AI systems and deep learning for satellite imagery analysis.
+Most of my projects sit somewhere between machine learning research and software engineering. Over the past few years I've worked on fingerprint recognition, privacy-preserving biometrics, large language models and, more recently, semantic segmentation for silviculture. 
 
 I'm particularly interested in:
 - AI & Machine Learning
