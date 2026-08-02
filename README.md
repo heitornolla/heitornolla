@@ -18,7 +18,7 @@ I'm particularly interested in:
 - Remote Sensing & Environmental Monitoring
 - Data Engineering
 
-In this profile you'll find research projects, experiments, publications, study material and open-source contributions related to these areas. Feel free to connect if you'd like to discuss research, collaborate on projects or simply exchange ideas.
+This GitHub is mostly a collection of research projects, experiments and side projects. If something here is useful to you, or you just want to chat about one of these topics, feel free to reach out.
 
 Everything I build and study is possible because of those who came before me. I am merely standing on the shoulders of giants.
 
