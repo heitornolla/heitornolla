@@ -8,19 +8,20 @@
 
 ## About Myself
 
-I'm a researcher and developer working at the intersection of Artificial Intelligence, Biometrics, Privacy and Data Engineering.
+I'm a researcher and developer working at the intersection of Artificial Intelligence, Image Processing, Privacy and Data Engineering.
 
-Currently, I work as a Data Analyst at LinkedIn and I'm an undergraduate researcher at UNICAMP's Laboratory of Image Data Science.
+Currently, I'm an undergraduate researcher at UFMG's Remote Sensing laboratory.
 
 My research experience spans computer vision, biometric recognition, privacy-preserving AI, large language models and environmental monitoring. I've worked on projects involving fingerprint enhancement, synthetic biometric data generation, fully homomorphic encryption for face verification, agentic AI systems and deep learning for satellite imagery analysis.
 
 I'm particularly interested in:
 - AI & Machine Learning
-- Biometrics & Computer Vision
+- Image Analysis, Pattern Recognition & Computer Vision
+- Biometrics
 - Privacy-Preserving AI & Cryptography
 - Foundation Models & Agentic Systems
 - Remote Sensing & Environmental Monitoring
-- Data Engineering & Analytics
+- Data Engineering
 
 In this profile you'll find research projects, experiments, publications, study material and open-source contributions related to these areas. Feel free to connect if you'd like to discuss research, collaborate on projects or simply exchange ideas.
 
