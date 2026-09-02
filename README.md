@@ -1,7 +1,8 @@
 # Hey there! I'm Heitor 👋
 
 - 🎓 Information Systems B.Sc. at UNICAMP.
-- 🔬 AI Researcher working on Biometrics, Computer Vision and Privacy-Preserving Machine Learning.
+- 🤖 AI Engineer at NeoSpace AI.
+- 🔬 Researcher working on Biometrics, Computer Vision and Privacy-Preserving Machine Learning.
 - 🌎 RYEP Exchange Student to Coahuila, Mexico (2019/2020).
 - 😄 Pronouns: he/him.
 
